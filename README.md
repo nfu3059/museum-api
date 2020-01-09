@@ -43,5 +43,5 @@
 ![功能2](https://github.com/nfu3059/graduation/blob/master/%E6%B6%88%E6%81%AF.jpg)
 ![功能3](https://github.com/nfu3059/graduation/blob/master/%E6%88%91%E7%9A%84.jpg)
 ![功能4](https://github.com/nfu3059/graduation/blob/master/%E5%AE%A2%E6%9C%8D%E5%B9%B3%E5%8F%B0.jpg)
-##3 原型文件
+### 原型文件
 [原型page]( http://nfunm059.gitee.io/yuan)
