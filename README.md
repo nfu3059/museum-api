@@ -34,3 +34,14 @@
 |  多动症患者无法控制自己的行为多次触摸展品| 人体检测api得知情况上报相关人员该情况，及时的引导和制止  |高|
 ### 具体应用场景
 在博物馆中，身障人士因个人身体存在的不便而在参观中产生困难，于是使用这款产品为其提供帮助
+## （八）使用者交互与设计（axure产品原型）
+### 框架图
+![tu](https://github.com/nfu3059/API_ML_AI/upload)
+### 原型图
+![首页](https://github.com/nfu3059/graduation/blob/master/%E9%A6%96%E9%A1%B5.jpg)
+![功能1](https://github.com/nfu3059/graduation/blob/master/%E5%B1%95%E8%A7%88%E6%B4%BB%E5%8A%A8.jpg)
+![功能2](https://github.com/nfu3059/graduation/blob/master/%E6%B6%88%E6%81%AF.jpg)
+![功能3](https://github.com/nfu3059/graduation/blob/master/%E6%88%91%E7%9A%84.jpg)
+![功能4](https://github.com/nfu3059/graduation/blob/master/%E5%AE%A2%E6%9C%8D%E5%B9%B3%E5%8F%B0.jpg)
+##3 原型文件
+[原型page]( http://nfunm059.gitee.io/yuan)
